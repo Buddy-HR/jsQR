@@ -6,6 +6,7 @@
   "main": "./dist/jsQR.js",
   "module": "./dist/jsQR.js",
   "types": "./dist/index.d.ts",
+  "type": "commonjs",
   "contributors": [
     {
       "name": "Cosmo Wolfe",
